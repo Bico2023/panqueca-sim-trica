@@ -1,0 +1,2 @@
+# panqueca-sim-trica
+Lucre
